@@ -1,4 +1,4 @@
-﻿# # Basics of software code development
+﻿# Basics of software code development
 Описание файлов:
  - Practice (tasks).pdf - файл с условиями задач.
  - 1-19.java - файлы с решениями задач.
