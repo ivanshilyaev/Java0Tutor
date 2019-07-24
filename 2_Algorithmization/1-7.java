@@ -7,7 +7,7 @@ public class Main {
             Scanner sc = new Scanner(System.in);
             int n;
             do {
-                System.out.println("Enter positive odd integer n - number of elements:");
+                System.out.println("Enter positive even integer n - number of elements:");
                 n = sc.nextInt();
             } while (n<=0 || n%2!=0);
             int arr[] = new int[n];
